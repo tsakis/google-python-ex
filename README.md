@@ -1,6 +1,9 @@
 # google-python-ex
 Google Python class
+
 https://developers.google.com/edu/python/
+
+Omitted built-in solutions.
 
 --Basic
 Done.
@@ -12,4 +15,4 @@ Done.
 Done.
 
 --Logpuzzle (urllib)
-
+Done.
